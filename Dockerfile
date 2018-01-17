@@ -1,4 +1,5 @@
 #jdk 1.7
+#2018-01-17
 FROM ubuntu
 MAINTAINER wangzhennan
 WORKDIR /export/local
